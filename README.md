@@ -11,11 +11,9 @@
 
 安装后在 LSPosed 启用 dyguard，作用域勾选抖音，强制停止并重新打开抖音。在抖音搜索框输入 `#dy` 打开设置。
 
-首次获取或更新云端适配规则后，按提示强制停止并重新打开抖音。已验签的规则会按抖音版本缓存；断网或更新失败时保留已有规则。首次没有缓存时需先联网获取配置。授权有效期与适配缓存分别校验。
-
 覆盖安装新版后，同样强制停止并重新打开抖音。
 
-[使用说明](https://my.feishu.cn/wiki/NDk8w0XJTiyJcFkGgz3cPR9Kn3d) · [正式版下载](https://github.com/Xposed-Modules-Repo/top.myfyfy.dyguard/releases/latest) · [赞助](https://zf.myfyfy.top/?product=dyguard) · [加入交流群](https://t.me/+PKuwqsS_H64yMDE9)
+[使用说明](https://help.myfy.cc.cd/) · [加入交流群](https://t.me/+PKuwqsS_H64yMDE9)
 
 ## 已知限制与反馈
 
