@@ -13,6 +13,8 @@
 
 覆盖安装新版后，同样强制停止并重新打开抖音。
 
+[插件下载](https://dl.myfy.us.ci/)
+
 [使用说明](https://help.myfy.cc.cd/) · [加入交流群](https://t.me/+PKuwqsS_H64yMDE9)
 
 ## 已知限制与反馈
